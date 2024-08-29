@@ -1,245 +1,245 @@
 Region  0
 Helix 99%
-Number of T3s:  72480
-Number of fakes:  15196
-Number of trues:  49332
+Number of T3s:  72200
+Number of fakes:  14964
+Number of trues:  49323
 Linear
-Number of T3s:  81855
-Number of fakes:  23391
-Number of trues:  49516
+Number of T3s:  82286
+Number of fakes:  23736
+Number of trues:  49578
 No cuts
-Number of T3s:  115082
-Number of fakes:  53398
-Number of trues:  49520
+Number of T3s:  117569
+Number of fakes:  55399
+Number of trues:  49823
 
 Region  1
 Helix 99%
-Number of T3s:  42198
-Number of fakes:  23944
-Number of trues:  15230
+Number of T3s:  43647
+Number of fakes:  25223
+Number of trues:  15342
 Linear
-Number of T3s:  60885
-Number of fakes:  42069
-Number of trues:  15363
+Number of T3s:  62967
+Number of fakes:  43951
+Number of trues:  15482
 No cuts
-Number of T3s:  79823
-Number of fakes:  60880
-Number of trues:  15288
+Number of T3s:  83691
+Number of fakes:  64411
+Number of trues:  15497
 
 Region  2
 Helix 99%
-Number of T3s:  70216
-Number of fakes:  56315
-Number of trues:  12049
+Number of T3s:  72726
+Number of fakes:  58608
+Number of trues:  12203
 Linear
-Number of T3s:  61308
-Number of fakes:  48977
-Number of trues:  10773
+Number of T3s:  62386
+Number of fakes:  49957
+Number of trues:  10834
 No cuts
-Number of T3s:  107481
-Number of fakes:  93477
-Number of trues:  11979
+Number of T3s:  114433
+Number of fakes:  99923
+Number of trues:  12345
 
 Region  3
 Helix 99%
-Number of T3s:  52448
-Number of fakes:  11418
-Number of trues:  35705
+Number of T3s:  52395
+Number of fakes:  11365
+Number of trues:  35715
 Linear
-Number of T3s:  57946
-Number of fakes:  16284
-Number of trues:  35833
+Number of T3s:  58158
+Number of fakes:  16453
+Number of trues:  35860
 No cuts
-Number of T3s:  85877
-Number of fakes:  41700
-Number of trues:  35946
+Number of T3s:  87377
+Number of fakes:  42988
+Number of trues:  36074
 
 Region  4
 Helix 99%
-Number of T3s:  39971
-Number of fakes:  24378
-Number of trues:  12917
+Number of T3s:  40876
+Number of fakes:  25195
+Number of trues:  12986
 Linear
-Number of T3s:  49599
-Number of fakes:  33660
-Number of trues:  13055
+Number of T3s:  50353
+Number of fakes:  34344
+Number of trues:  13105
 No cuts
-Number of T3s:  78795
-Number of fakes:  62700
-Number of trues:  12951
+Number of T3s:  82317
+Number of fakes:  65975
+Number of trues:  13115
 
 Region  5
 Helix 99%
-Number of T3s:  116945
-Number of fakes:  99888
-Number of trues:  14249
+Number of T3s:  123886
+Number of fakes:  106449
+Number of trues:  14523
 Linear
-Number of T3s:  74832
-Number of fakes:  62803
-Number of trues:  10138
+Number of T3s:  76273
+Number of fakes:  64192
+Number of trues:  10177
 No cuts
-Number of T3s:  165122
-Number of fakes:  147812
-Number of trues:  14257
+Number of T3s:  176844
+Number of fakes:  158892
+Number of trues:  14693
 
 Region  6
 Helix 99%
-Number of T3s:  31851
-Number of fakes:  7759
-Number of trues:  21196
+Number of T3s:  31408
+Number of fakes:  7370
+Number of trues:  21190
 Linear
-Number of T3s:  33262
-Number of fakes:  9096
-Number of trues:  21172
+Number of T3s:  33406
+Number of fakes:  9224
+Number of trues:  21186
 No cuts
-Number of T3s:  51254
-Number of fakes:  25630
-Number of trues:  21306
+Number of T3s:  52295
+Number of fakes:  26528
+Number of trues:  21403
 
 Region  7
 Helix 99%
-Number of T3s:  45356
-Number of fakes:  30431
-Number of trues:  12166
+Number of T3s:  46605
+Number of fakes:  31541
+Number of trues:  12254
 Linear
-Number of T3s:  50659
-Number of fakes:  35539
-Number of trues:  12252
+Number of T3s:  51514
+Number of fakes:  36301
+Number of trues:  12306
 No cuts
-Number of T3s:  91019
-Number of fakes:  75597
-Number of trues:  12143
+Number of T3s:  96873
+Number of fakes:  81048
+Number of trues:  12376
 
 Region  8
 Helix 99%
-Number of T3s:  126233
-Number of fakes:  112236
-Number of trues:  11315
+Number of T3s:  134866
+Number of fakes:  120421
+Number of trues:  11584
 Linear
-Number of T3s:  70638
-Number of fakes:  61716
-Number of trues:  7426
+Number of T3s:  71628
+Number of fakes:  62661
+Number of trues:  7451
 No cuts
-Number of T3s:  175749
-Number of fakes:  161631
-Number of trues:  11191
+Number of T3s:  193445
+Number of fakes:  178515
+Number of trues:  11707
 
 Region  9
 Helix 99%
-Number of T3s:  73641
-Number of fakes:  30813
-Number of trues:  34749
+Number of T3s:  73899
+Number of fakes:  31030
+Number of trues:  34774
 Linear
-Number of T3s:  78983
-Number of fakes:  35411
-Number of trues:  34956
+Number of T3s:  79358
+Number of fakes:  35729
+Number of trues:  34997
 No cuts
-Number of T3s:  127847
-Number of fakes:  81916
-Number of trues:  34881
+Number of T3s:  132548
+Number of fakes:  86218
+Number of trues:  35124
 
 Region  10
 Helix 99%
-Number of T3s:  79762
-Number of fakes:  38370
-Number of trues:  35306
+Number of T3s:  80145
+Number of fakes:  38700
+Number of trues:  35348
 Linear
-Number of T3s:  116496
-Number of fakes:  74036
-Number of trues:  35438
+Number of T3s:  118035
+Number of fakes:  75371
+Number of trues:  35580
 No cuts
-Number of T3s:  262870
-Number of fakes:  219349
-Number of trues:  34304
+Number of T3s:  294765
+Number of fakes:  249143
+Number of trues:  35704
 
 Region  11
 Helix 99%
-Number of T3s:  1077771
-Number of fakes:  904945
-Number of trues:  141683
+Number of T3s:  1054471
+Number of fakes:  881922
+Number of trues:  141696
 Linear
-Number of T3s:  1548468
-Number of fakes:  1371350
-Number of trues:  141443
+Number of T3s:  1561467
+Number of fakes:  1383982
+Number of trues:  141648
 No cuts
-Number of T3s:  4794997
-Number of fakes:  4603820
-Number of trues:  137196
+Number of T3s:  5573281
+Number of fakes:  5372325
+Number of trues:  143069
 
 Region  12
 Helix 99%
-Number of T3s:  40145
-Number of fakes:  10123
-Number of trues:  26273
+Number of T3s:  40487
+Number of fakes:  10428
+Number of trues:  26291
 Linear
-Number of T3s:  46629
-Number of fakes:  15751
-Number of trues:  26446
+Number of T3s:  46984
+Number of fakes:  16072
+Number of trues:  26463
 No cuts
-Number of T3s:  79033
-Number of fakes:  46704
-Number of trues:  26466
+Number of T3s:  81772
+Number of fakes:  49301
+Number of trues:  26551
 
 Region  13
 Helix 99%
-Number of T3s:  27173
-Number of fakes:  21955
-Number of trues:  4301
+Number of T3s:  27864
+Number of fakes:  22597
+Number of trues:  4325
 Linear
-Number of T3s:  35386
-Number of fakes:  30085
-Number of trues:  4323
+Number of T3s:  36216
+Number of fakes:  30849
+Number of trues:  4356
 No cuts
-Number of T3s:  57022
-Number of fakes:  51686
-Number of trues:  4282
+Number of T3s:  60421
+Number of fakes:  54946
+Number of trues:  4367
 
 Region  14
 Helix 99%
-Number of T3s:  16398
-Number of fakes:  4015
-Number of trues:  11110
+Number of T3s:  16452
+Number of fakes:  4021
+Number of trues:  11142
 Linear
-Number of T3s:  22092
-Number of fakes:  9257
-Number of trues:  11157
+Number of T3s:  22382
+Number of fakes:  9449
+Number of trues:  11227
 No cuts
-Number of T3s:  43195
-Number of fakes:  30012
-Number of trues:  11099
+Number of T3s:  44879
+Number of fakes:  31476
+Number of trues:  11253
 
 Region  15
 Helix 99%
-Number of T3s:  120228
-Number of fakes:  101503
-Number of trues:  15745
+Number of T3s:  121478
+Number of fakes:  102721
+Number of trues:  15764
 Linear
-Number of T3s:  259645
-Number of fakes:  240083
-Number of trues:  15827
+Number of T3s:  265085
+Number of fakes:  245392
+Number of trues:  15912
 No cuts
-Number of T3s:  335577
-Number of fakes:  315993
-Number of trues:  15728
+Number of T3s:  352748
+Number of fakes:  332864
+Number of trues:  15922
 
 Region  16
 Helix 99%
-Number of T3s:  1416465
-Number of fakes:  1312755
-Number of trues:  86273
+Number of T3s:  1437346
+Number of fakes:  1333509
+Number of trues:  86350
 Linear
-Number of T3s:  1266240
-Number of fakes:  1169528
-Number of trues:  80307
+Number of T3s:  1280375
+Number of fakes:  1183421
+Number of trues:  80464
 No cuts
-Number of T3s:  4845337
-Number of fakes:  4738317
-Number of trues:  85293
+Number of T3s:  5364498
+Number of fakes:  5254621
+Number of trues:  87178
 
 Region  17
 Helix 99%
-Number of T3s:  117
-Number of fakes:  13
+Number of T3s:  114
+Number of fakes:  12
 Number of trues:  98
 Linear
 Number of T3s:  283
@@ -252,126 +252,112 @@ Number of trues:  98
 
 Region  18
 Helix 99%
-Number of T3s:  21290
-Number of fakes:  10364
-Number of trues:  9734
+Number of T3s:  21520
+Number of fakes:  10549
+Number of trues:  9767
 Linear
-Number of T3s:  31387
-Number of fakes:  20049
-Number of trues:  9849
+Number of T3s:  31442
+Number of fakes:  20095
+Number of trues:  9852
 No cuts
-Number of T3s:  43578
-Number of fakes:  32189
-Number of trues:  9850
+Number of T3s:  44085
+Number of fakes:  32661
+Number of trues:  9864
 
 Region  19
 Helix 99%
-Number of T3s:  303524
-Number of fakes:  286916
-Number of trues:  13602
+Number of T3s:  311507
+Number of fakes:  294793
+Number of trues:  13679
 Linear
-Number of T3s:  232831
-Number of fakes:  217952
-Number of trues:  12334
+Number of T3s:  234012
+Number of fakes:  219102
+Number of trues:  12349
 No cuts
-Number of T3s:  486030
-Number of fakes:  469114
-Number of trues:  13684
+Number of T3s:  502415
+Number of fakes:  485289
+Number of trues:  13817
 
 Region  20
 Helix 99%
-Number of T3s:  1790552
-Number of fakes:  1716915
-Number of trues:  62319
+Number of T3s:  1817326
+Number of fakes:  1743561
+Number of trues:  62409
 Linear
-Number of T3s:  1306688
-Number of fakes:  1239570
-Number of trues:  57108
+Number of T3s:  1314924
+Number of fakes:  1247702
+Number of trues:  57184
 No cuts
-Number of T3s:  3353037
-Number of fakes:  3277984
-Number of trues:  62667
+Number of T3s:  3505029
+Number of fakes:  3429433
+Number of trues:  63040
 
 Region  21
 Helix 99%
-Number of T3s:  314418
-Number of fakes:  297045
-Number of trues:  14496
+Number of T3s:  322528
+Number of fakes:  305053
+Number of trues:  14556
 Linear
-Number of T3s:  365182
-Number of fakes:  347639
-Number of trues:  14602
+Number of T3s:  369010
+Number of fakes:  351379
+Number of trues:  14654
 No cuts
-Number of T3s:  593422
-Number of fakes:  575813
-Number of trues:  14514
+Number of T3s:  616948
+Number of fakes:  599053
+Number of trues:  14707
 
 Region  22
 Helix 99%
-Number of T3s:  229801
-Number of fakes:  217924
-Number of trues:  10095
+Number of T3s:  234999
+Number of fakes:  223060
+Number of trues:  10138
 Linear
-Number of T3s:  160169
-Number of fakes:  148987
+Number of T3s:  160278
+Number of fakes:  149096
 Number of trues:  9592
 No cuts
-Number of T3s:  356682
-Number of fakes:  344543
-Number of trues:  10210
+Number of T3s:  358953
+Number of fakes:  346769
+Number of trues:  10243
 
 Region  23
 Helix 99%
-Number of T3s:  1532181
-Number of fakes:  1476955
-Number of trues:  47858
+Number of T3s:  1567452
+Number of fakes:  1512079
+Number of trues:  47969
 Linear
-Number of T3s:  1119042
-Number of fakes:  1067638
-Number of trues:  44740
+Number of T3s:  1122756
+Number of fakes:  1071335
+Number of trues:  44748
 No cuts
-Number of T3s:  2648776
-Number of fakes:  2592533
-Number of trues:  48330
+Number of T3s:  2742635
+Number of fakes:  2686258
+Number of trues:  48424
 
 Region  24
 Helix 99%
-Number of T3s:  124303
-Number of fakes:  117422
-Number of trues:  5885
+Number of T3s:  125468
+Number of fakes:  118579
+Number of trues:  5889
 Linear
-Number of T3s:  120122
-Number of fakes:  113227
-Number of trues:  5911
+Number of T3s:  120137
+Number of fakes:  113243
+Number of trues:  5910
 No cuts
-Number of T3s:  221175
-Number of fakes:  214176
-Number of trues:  5942
+Number of T3s:  223216
+Number of fakes:  216208
+Number of trues:  5950
 
 Region  25
 Helix 99%
-Number of T3s:  3118
-Number of fakes:  3118
+Number of T3s:  0
+Number of fakes:  0
 Number of trues:  0
 Linear
 Number of T3s:  1951
 Number of fakes:  1951
 Number of trues:  0
 No cuts
-Number of T3s:  6992
-Number of fakes:  6992
+Number of T3s:  6997
+Number of fakes:  6997
 Number of trues:  0
-
-pt > 100
-Helix 99%
-Number of T3s:  130287
-Number of fakes:  129618
-Number of trues:  452
-Linear
-Number of T3s:  55440
-Number of fakes:  55040
-Number of trues:  262
-No cuts
-Number of T3s:  157907
-Number of fakes:  157197
-Number of trues:  442
